@@ -1,0 +1,60 @@
+*{
+	font-family: Montserrat;
+}
+
+h1{
+	text-align: center;
+	background-color: plum;
+	color: white;
+	padding: 30px;
+}
+
+hr{
+	border: 2px solid plum;
+	width: 50%;
+}
+
+p{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+}
+
+img{
+	border-radius:40px;
+	width: 35%;
+}
+
+header{
+	background-color: plum;
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 100px;
+}
+
+li a {
+	color: white;
+	text-decoration: none;
+}
+
+li a:hover {
+	color: olive;
+}
+
+footer {
+	background-color: plum;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+.image_container {
+	text-align: center;
+}
